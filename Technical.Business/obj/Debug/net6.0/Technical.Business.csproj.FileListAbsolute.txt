@@ -1,0 +1,14 @@
+C:\Users\ar33308\source\repos\TechnicalAssessment\Technical.Business\bin\Debug\net6.0\Technical.Business.deps.json
+C:\Users\ar33308\source\repos\TechnicalAssessment\Technical.Business\bin\Debug\net6.0\Technical.Business.runtimeconfig.json
+C:\Users\ar33308\source\repos\TechnicalAssessment\Technical.Business\bin\Debug\net6.0\Technical.Business.dll
+C:\Users\ar33308\source\repos\TechnicalAssessment\Technical.Business\bin\Debug\net6.0\Technical.Business.pdb
+C:\Users\ar33308\source\repos\TechnicalAssessment\Technical.Business\obj\Debug\net6.0\Technical.Business.csproj.AssemblyReference.cache
+C:\Users\ar33308\source\repos\TechnicalAssessment\Technical.Business\obj\Debug\net6.0\Technical.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ar33308\source\repos\TechnicalAssessment\Technical.Business\obj\Debug\net6.0\Technical.Business.AssemblyInfoInputs.cache
+C:\Users\ar33308\source\repos\TechnicalAssessment\Technical.Business\obj\Debug\net6.0\Technical.Business.AssemblyInfo.cs
+C:\Users\ar33308\source\repos\TechnicalAssessment\Technical.Business\obj\Debug\net6.0\Technical.Business.csproj.CoreCompileInputs.cache
+C:\Users\ar33308\source\repos\TechnicalAssessment\Technical.Business\obj\Debug\net6.0\Technical.Business.dll
+C:\Users\ar33308\source\repos\TechnicalAssessment\Technical.Business\obj\Debug\net6.0\refint\Technical.Business.dll
+C:\Users\ar33308\source\repos\TechnicalAssessment\Technical.Business\obj\Debug\net6.0\Technical.Business.pdb
+C:\Users\ar33308\source\repos\TechnicalAssessment\Technical.Business\obj\Debug\net6.0\Technical.Business.genruntimeconfig.cache
+C:\Users\ar33308\source\repos\TechnicalAssessment\Technical.Business\obj\Debug\net6.0\ref\Technical.Business.dll
